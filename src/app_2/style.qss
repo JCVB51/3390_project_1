@@ -1,0 +1,91 @@
+/* Global application font */
+* {
+    font-family: "Segoe UI";
+    font-size: 14px;
+}
+
+/* Main window background */
+QMainWindow {
+    background: #f6f7fb;
+}
+
+/* Labels */
+QLabel {
+    color: #1f2937;           /* dark gray */
+    font-weight: 600;
+}
+
+/* Text input */
+QLineEdit {
+    background: white;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    padding: 6px 8px;
+}
+
+QLineEdit:focus {
+    border: 1px solid #2563eb; /* blue focus */
+}
+
+/* List widget */
+QListWidget {
+    background: white;
+    border: 1px solid #d1d5db;
+    border-radius: 10px;
+    padding: 6px;
+}
+
+QListWidget::item {
+    padding: 8px;
+    border-radius: 6px;
+}
+
+QListWidget::item:selected {
+    background: #2563eb;
+    color: white;
+}
+
+/* SpinBox (weight) */
+QSpinBox {
+    background: white;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    padding: 6px 8px;
+}
+
+QSpinBox:focus {
+    border: 1px solid #2563eb;
+}
+
+/* Buttons */
+QPushButton {
+    background: #111827;       /* near-black */
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 8px 12px;
+}
+QPushButton:hover {
+    background: #1f2937;
+}
+
+QPushButton:pressed {
+    background: #0b1220;
+}
+
+/* Optional: special colors by objectName (set in Designer) */
+QPushButton#removeButton {
+    background: #b91c1c;       /* red */
+}
+
+QPushButton#removeButton:hover {
+    background: #991b1b;
+}
+
+QPushButton#decideButton {
+    background: #2563eb;       /* blue */
+}
+
+QPushButton#decideButton:hover {
+    background: #1d4ed8;
+}

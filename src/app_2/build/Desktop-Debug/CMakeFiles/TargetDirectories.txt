@@ -1,0 +1,9 @@
+/home/camus/3390_project_1/src/app_2/build/Desktop-Debug/CMakeFiles/app_2.dir
+/home/camus/3390_project_1/src/app_2/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/camus/3390_project_1/src/app_2/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/camus/3390_project_1/src/app_2/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/camus/3390_project_1/src/app_2/build/Desktop-Debug/CMakeFiles/install.dir
+/home/camus/3390_project_1/src/app_2/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/camus/3390_project_1/src/app_2/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/camus/3390_project_1/src/app_2/build/Desktop-Debug/CMakeFiles/app_2_autogen_timestamp_deps.dir
+/home/camus/3390_project_1/src/app_2/build/Desktop-Debug/CMakeFiles/app_2_autogen.dir

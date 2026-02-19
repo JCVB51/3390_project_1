@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>552</width>
+    <height>393</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,8 +17,8 @@
    <widget class="QPushButton" name="helloButton">
     <property name="geometry">
      <rect>
-      <x>140</x>
-      <y>130</y>
+      <x>220</x>
+      <y>160</y>
       <width>94</width>
       <height>26</height>
      </rect>
@@ -33,7 +33,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>800</width>
+     <width>552</width>
      <height>23</height>
     </rect>
    </property>

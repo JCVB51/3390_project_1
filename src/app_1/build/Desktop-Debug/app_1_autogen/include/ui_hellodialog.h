@@ -27,10 +27,10 @@ public:
     {
         if (HelloDialog->objectName().isEmpty())
             HelloDialog->setObjectName("HelloDialog");
-        HelloDialog->resize(400, 300);
+        HelloDialog->resize(388, 261);
         label = new QLabel(HelloDialog);
         label->setObjectName("label");
-        label->setGeometry(QRect(180, 110, 91, 16));
+        label->setGeometry(QRect(170, 110, 91, 31));
         okButton = new QPushButton(HelloDialog);
         okButton->setObjectName("okButton");
         okButton->setGeometry(QRect(60, 110, 94, 26));
